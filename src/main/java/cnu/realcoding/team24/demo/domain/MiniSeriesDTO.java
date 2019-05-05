@@ -1,5 +1,8 @@
 package cnu.realcoding.team24.demo.domain;
 
+import lombok.Data;
+
+@Data
 public class MiniSeriesDTO {
     /*progress	string
     losses	int
