@@ -1,5 +1,8 @@
 package cnu.realcoding.team24.demo.domain;
 
+import lombok.Data;
+
+@Data
 public class LeaguePositionDTO {
     /*queueType	string
     summonerName	string
