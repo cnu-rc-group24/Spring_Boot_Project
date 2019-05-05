@@ -1,7 +1,10 @@
 package cnu.realcoding.team24.demo.domain;
 
+import lombok.Data;
+
 import java.security.SecureRandom;
 
+@Data
 public class SummonerDTO {
     /*profileIconId	int	ID of the summoner icon associated with the summoner.
     name	string	Summoner name.
